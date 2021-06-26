@@ -3,3 +3,6 @@
 .packages
 doc/
 pubspec.lock
+/.idea
+/build
+/.history
